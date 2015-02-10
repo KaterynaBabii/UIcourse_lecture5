@@ -1,0 +1,67 @@
+body
+{
+    color:#ffffff;
+    font: 16px/24px 'Arial', sans-serif;
+    padding: 0; 
+    margin:0;
+    background: #050505 url("../img/bg_bottom.png") no-repeat center bottom;
+ }
+.container {
+    margin: auto;
+    max-width: 960px;
+}
+h2{
+    margin-top:70px;
+    font-size: 32px;
+    font-family: "PTSans";
+}
+header {
+    text-align:center;
+    background: #050505 url("../img/bg_top.png") no-repeat center top;
+    height: 436px;
+}
+.button {
+    width: 260px;
+    height: 50px;
+    margin:auto;
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 4px;
+    background: #26a8db;
+    box-shadow: 0px 3px 0px 0px #1282ae;
+}
+.columns2 {
+    width: 50%;
+    display:inline-block;
+    vertical-align:top;
+}
+p{
+    font-size: 16px;
+    font-family: "PTSans";
+}
+.meet{
+    margin-top:80px;
+}
+.discuss{
+    margin-top:170px;
+}
+.img1{
+    margin:-130px 0px 0px -130px;
+    
+}
+.img2{
+    margin:-80px 220px 0px -150px;
+}
+.img3{
+    margin:0px -20px 0px 15px;
+   
+}
+.meet .right_text{
+    margin-right:-200px;
+    margin-top:80px;
+}
+footer {
+    text-align:center;
+    margin-top:140px; 
+}

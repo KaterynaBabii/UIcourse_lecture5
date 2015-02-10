@@ -1,0 +1,25 @@
+@media (max-width: 850px) {
+    .columns2 {
+        
+        width: 100%;
+    }
+}
+@media (max-width: 800px) {
+     .columns2 {
+        
+        width: 100%;
+    }
+}
+@media (max-width: 620px) {
+     .columns2 {
+        
+        width: 100%;
+    }
+  
+}
+@media (max-width: 420px) {
+     .columns2 {
+        
+        width: 100%;
+    }
+}
